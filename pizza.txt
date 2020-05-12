@@ -2,3 +2,5 @@ Pepperoni
 Cheese
 Tomatoes
 Mushroom
+Potato
+Ham
